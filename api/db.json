@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "Not my stream",
+      "description": "good steam",
+      "id": 1
+    },
+    {
+      "title": "My new stream",
+      "description": "PATCH",
+      "userId": "106247012628202642454",
+      "id": 3
+    }
+  ]
+}
