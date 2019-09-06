@@ -1,4 +1,4 @@
-# twitch-clone
+# Streamy : Twitch clone
 
 Video Streaming Platform
 
