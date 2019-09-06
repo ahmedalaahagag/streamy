@@ -25,15 +25,21 @@ Video Streaming Platform
   5- Add a screen capture configuration
 
   6- From OBS open settings and select `Stream` from the right menu choose 
+  
     server : `custom` 
+    
     url : `rtmp://localhost/live`
+    
     Stream Key : `1` (Represents the stream id from the application URL ex: http://localhost:3000/streams/1) 1 is the stream id
 
   7- Clone the the project (https://github.com/ahmedalaahagag/twitch-clone)
 
   8- On the the project's 3 Directories (api - rtmpserver - client) run `npm start`
+  
     - api folder : is a json database using 'db.json' file which already has some examples of the recoreds
+    
     - rtmpserver : holds the streaming server
+    
     - client : where you have the channels and users that you want to see and manage your streams/channels
 
   9- Using your google account login to the platform using the top corner right hand side (sign in with google)
